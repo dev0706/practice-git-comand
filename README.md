@@ -1,1 +1,1 @@
-# practice-git-comand
+git-command-demonstration
